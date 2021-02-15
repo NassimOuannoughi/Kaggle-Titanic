@@ -2,11 +2,11 @@
 Hello, welcome to my github :)
 
 In this notebook I will describe my process to predict if passengers survived the Titanic disaster. 
-This is a nice classification problem where you can learn techniques that can be applied on many projects !
+This is a nice classification problem where you can learn techniques that can be applied on many real life scenarios !
 
 This project comes from a Kaggle competition: https://www.kaggle.com/c/titanic
 
-This project was a practice that I did after refreshing my memory on machine learning, I applied basic principles in order to have a simple but effective code that performs reasonably well.
+This competition is essentially a practice that I did after refreshing my memory on machine learning, I applied basic principles in order to have a simple but effective code that performs reasonably well.
 I tried to make the code as readable and simple as possible, if something is not clear please send me a message.
 In the same fashion, if you spot some mistakes, bad practices or bits that could be improved, by all means tell me so I can learn as well :)
 
